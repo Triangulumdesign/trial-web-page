@@ -1,1 +1,74 @@
-hello git	
+<!DOCTYPE HTML>
+<html>
+ <head>
+ <link rel=stylesheet href=reset.css>
+ <link rel=stylesheet href=main.css>
+ </head>
+  <body>
+    <aside> 
+    <h1> <img src="logo.jpg"></h1>
+    <nav>
+    <ul> 
+    <li> <a href= 'about.html'>
+    main </a>
+    </li>
+    <li>about
+    </li>
+    <li>contacts
+    </li>
+    </ul>
+    </nav>
+    </aside>
+    <section>
+    <li>
+      <h1> MOONASSI ILLUSTRATION </h1>
+      </li>
+      <article> 
+      <figure>
+      <img src="moonassi1.jpg">
+      <figcapture>
+      text
+      </figcapture>
+      </article>
+      <article>
+      <figure>
+      <img src="moonassi2.jpg">
+      <figurcaprute>
+      text
+      <figurecapture/>
+      </article>
+      <article> 
+      <figure>
+      <img src="moonassi3.jpg">
+      <figcapture>
+      text
+      </figcapture>
+      </article>
+       <article> 
+      <figure>
+      <img src="moonassi4.jpg">
+      <figcapture>
+      text
+      </figcapture>
+      </article>
+      <article>
+      <figure>
+      <img src="moonassi5.jpg">
+      <figurcaprute>
+      text
+      <figurecapture/>
+      </article>
+      <article> 
+      <figure>
+      <img src="moonassi6.jpg">
+      <figcapture>
+      text
+      </figcapture>
+      </article>
+
+    </section>
+    <footer>
+      
+    </footer>
+  
+  </body>
